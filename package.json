@@ -1,0 +1,20 @@
+{
+  "name": "webgl-doc",
+  "version": "1.0.0",
+  "description": "webGL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [
+    "webgl"
+  ],
+  "author": "wbb",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.39"
+  }
+}
