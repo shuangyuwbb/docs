@@ -22,6 +22,8 @@ export default defineConfig({
           { text: 'WebGPU介绍', link: '/WebGPU' },
           { text: 'Data in WebGL', link: '/data' },
           { text: '模型、视图以及投影矩阵', link: '/guides/modelViewProjection' },
+          { text: 'ThreeJs', link: '/ThreeJs' },
+          { text: 'WebGL shader', link: '/webgl_shader' },
         ]
       }
     ],
